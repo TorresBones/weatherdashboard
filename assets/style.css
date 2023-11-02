@@ -10,61 +10,23 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-/* header {
+ header {
     background-color: #000000d1;
     text-align: center;
     width: 100%;
     color: white;
 }
 
-img {
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-
 .card {
-    background: #000000d1;
-    color: white;
-    padding: 2em;
-    border-radius: 30px;
-    width: 300px;
-    height: 90%;
+    background-color: #000000d1;
+    border-radius: 20px;
     margin: 10px 10px;
+    padding: 10px 10px;
 }
 
-aside {
-    background: #000000d1;
-    color: white;
-    padding: 2em;
-    border-radius: 30px;
-    width: 300px;
-    height: 90%;
-    margin: 10px 10px;
+h3 {
+    text-align: center;
+    background-color: #000000d1;
+    border-radius: 20px;
+    font-size: 2.00rem;
 }
-
-input.search-bar {
-    border: none;
-    outline: none;
-    padding: 0.8em;
-    border-radius: 18px;
-    color: black;
-    font-family: inherit;
-    font-weight: bolder;
-}
-
-button {
-    margin: 0.5em;
-    border-radius: 50%;
-    border: none;
-    height: 2.5em;
-    width: 2.5em;
-    outline: none;
-    cursor: pointer;
-    transition: 0.2 ease-in-out;
-}
-
-button:hover {
-    background: #a9a7a700;
-} */
-
