@@ -14,7 +14,7 @@ To use this application you just have to type the name of the city you want to k
 
 ![Alt text](image.png)
 
-Live link: 
+Live link: https://torresbones.github.io/weatherdashboard/
 
 ## License
 
